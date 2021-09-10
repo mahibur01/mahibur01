@@ -13,6 +13,4 @@ Skills: ANGULAR JS / BOOTSTRAP / HTML / CSS / TYPESCRIPT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahibur01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/whoisrakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/whoisrakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](mahiburrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mahibur.business@gmail.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahibur01&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/mahibur01)  
