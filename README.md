@@ -11,5 +11,3 @@ Skills: ANGULAR JS / BOOTSTRAP / HTML / CSS / TYPESCRIPT
 
 
 [<img src='https://img.icons8.com/color-glass/48/000000/github.png' alt='github' height='40'>](https://github.com/mahibur01)  [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/whoisrakib/)  [<img src='https://img.icons8.com/color/48/000000/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/whoisrakib)  [<img src='https://img.icons8.com/color/48/000000/behance.png' alt='behance' height='40'>](mahiburrahman)  [<img src='https://img.icons8.com/color/48/000000/gmail-new.png' alt='gmail' height='40'>](mahibur.business@gmail.com)  
-
-![Profile views](https://gpvc.arturio.dev/mahibur01)  
