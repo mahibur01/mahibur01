@@ -3,7 +3,7 @@
 #### Web and Software Developer
 Wanted to be a Police but ended up being a Bachelor–😃Cheers!
 
-Skills: ANGULAR JS / BOOTSTRAP / HTML / CSS / TYPESCRIPT
+SKILLS: [<img src='https://img.icons8.com/color/48/000000/angularjs.png' alt='angular' height='40'>] / BOOTSTRAP / HTML / CSS / TYPESCRIPT
 
 - 🔭 I’m currently working on Feydel.com 
 - 🌱 I’m currently learning Angular JS 
