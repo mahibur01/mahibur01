@@ -1,4 +1,4 @@
-(https://drive.google.com/file/d/1tGfOM1LGYcVUrOHO8KiSNmdfDH-xcm_G/view?usp=sharing)
+![Web and Software Developer](https://drive.google.com/file/d/1tGfOM1LGYcVUrOHO8KiSNmdfDH-xcm_G/view?usp=sharing)
 ### Hi there 👋, I'm Mahibur Rahman
 #### Web and Software Developer
 Wanted to be a Police but ended up being a Bachelor–😃Cheers!
