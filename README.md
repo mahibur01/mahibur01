@@ -3,7 +3,9 @@
 #### Web and Software Developer
 Wanted to be a Police but ended up being a Bachelor–😃Cheers!
 
-SKILLS: [<img src='https://img.icons8.com/color/48/000000/angularjs.png' alt='angular' height='40'>] / BOOTSTRAP / HTML / CSS / TYPESCRIPT
+SKILLS: 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt='javascript' height='40'> |
+<img src='https://img.icons8.com/color/48/000000/angularjs.png' alt='angular' height='40'> | <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt='bootstrap' height='40'> | <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt='html5' height='40'> | <img src="https://img.icons8.com/color/48/000000/css3.png" alt='css3' height='40'> | <img src="https://img.icons8.com/color/48/000000/typescript.png" alt='typescript' height='40'>
 
 - 🔭 I’m currently working on Feydel.com 
 - 🌱 I’m currently learning Angular JS 
